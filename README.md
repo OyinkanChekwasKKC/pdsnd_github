@@ -24,3 +24,6 @@ New Documentation Changes
 
 ### Refactoring
 Refactoring makes the code readable and clear and concise
+
+## Other Helpful link
+https://www.w3schools.com/git/
