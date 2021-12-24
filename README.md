@@ -21,3 +21,6 @@ its important to have documentation for everything that you do
 New Documentation Changes
 - Added new entry
 - Added another entry
+
+### Refactoring
+Refactoring makes the code readable and clear and concise
