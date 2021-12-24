@@ -17,3 +17,7 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Documentation
 its important to have documentation for everything that you do
+
+New Documentation Changes
+- Added new entry
+- Added another entry
